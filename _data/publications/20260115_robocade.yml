@@ -1,0 +1,22 @@
+title: 'RoboCade: Gamifying Robot Data Collection'
+date: 2026-01-15
+selected: false
+authors:
+  - name: Suvir Mirchandani
+    marks: '*'
+  - name: Mia Tang
+    marks: '*'
+  - name: Jiafei Duan
+    highlight: true
+  - name: Jubayer Ibn Hamid
+  - name: Michael Cho
+  - name: Dorsa Sadigh
+venue:
+  - text: 'International Conference on Robotics and Automation (ICRA) 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://robocade.github.io/static/pdfs/robocade.pdf'
+  - label: Project
+    kind: website
+    url: 'https://robocade.github.io/'

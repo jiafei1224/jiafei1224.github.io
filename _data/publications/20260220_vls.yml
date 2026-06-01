@@ -1,0 +1,24 @@
+title: 'VLS: Steering Pretrained Robot Policies via Vision-Language Models'
+date: 2026-02-20
+selected: false
+authors:
+  - name: Shuo Liu
+  - name: Ishneet Sukhvinder Singh
+  - name: Yiqing Xu
+  - name: Jiafei Duan
+    marks: '‡'
+    highlight: true
+  - name: Ranjay Krishna
+    marks: '‡'
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2602.03973'
+  - label: Code
+    kind: code
+    url: 'https://github.com/Vision-Language-Steering/code'
+  - label: Project
+    kind: website
+    url: 'https://vision-language-steering.github.io/webpage/'

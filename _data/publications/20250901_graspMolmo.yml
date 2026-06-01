@@ -1,0 +1,30 @@
+title: 'GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation'
+date: 2025-09-01
+selected: false
+authors:
+  - name: Abhay Deshpande
+  - name: Yuquan Deng
+  - name: Arijit Ray
+  - name: Jordi Salvador
+  - name: Winson Han
+  - name: Jiafei Duan
+    highlight: true
+  - name: Kuo-Hao Zeng
+  - name: Yuke Zhu
+  - name: Ranjay Krishna
+  - name: Rose Hendrix
+venue:
+  - text: 'Conference on Robot Learning (CoRL) 2025'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/abs/2505.13441'
+  - label: Code
+    kind: code
+    url: 'https://github.com/abhaybd/GraspMolmo'
+  - label: Project
+    kind: website
+    url: 'https://abhaybd.github.io/GraspMolmo/'
+  - label: Dataset
+    kind: dataset
+    url: 'https://github.com/abhaybd/GraspMolmo/blob/main/DATA.md'

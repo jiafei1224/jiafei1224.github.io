@@ -1,0 +1,24 @@
+title: 'A Benchmark for Modeling Violation-of-Expectation in Physical Reasoning Across Event Categories'
+date: 2023-06-01
+selected: false
+authors:
+  - name: Arijit Dasgupta
+  - name: Jiafei Duan
+    highlight: true
+  - name: Marcelo Ang
+  - name: Yi Lin
+  - name: Su-Hua Wang
+  - name: Renée Baillargeon
+  - name: Cheston Tan
+venue:
+  - text: 'Annual Conference of the Cognitive Science Society (CogSci) 2023'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://www.arijitdasgupta.com/publication/voe/VoE.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/arijitnoobstar/voe_physical_reasoning'
+  - label: Dataset
+    kind: dataset
+    url: 'https://github.com/jiafei1224/AVoE'

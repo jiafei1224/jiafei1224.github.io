@@ -1,0 +1,31 @@
+title: 'SAT: Spatial Aptitude Training for Multimodal Language Models'
+date: 2025-09-02
+selected: false
+authors:
+  - name: Arijit Ray
+  - name: Jiafei Duan
+    highlight: true
+  - name: Reuben Tan
+  - name: Dina Bashkirova
+  - name: Ross Hendrix
+  - name: Kiana Ehsani
+  - name: Aniruddha Kembhavi
+  - name: Bryan A. Plummer
+  - name: Ranjay Krishna
+    marks: '‡'
+  - name: Kuo-Hao Zeng
+    marks: '‡'
+  - name: Kate Saenko
+    marks: '‡'
+venue:
+  - text: 'Conference on Language Modeling (COLM) 2025'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2412.07755'
+  - label: Project
+    kind: website
+    url: 'https://arijitray1993.github.io/SAT/'
+  - label: Dataset
+    kind: dataset
+    url: 'https://huggingface.co/datasets/array/SAT'

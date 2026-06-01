@@ -1,0 +1,45 @@
+title: 'WildDet3D: Scaling Promptable 3D Detection in the Wild'
+date: 2026-05-15
+selected: false
+authors:
+  - name: Weikai Huang
+  - name: Jieyu Zhang
+  - name: Sijun Li
+  - name: Taoyang Jia
+  - name: Jiafei Duan
+    highlight: true
+  - name: Yunqian Cheng
+  - name: Jaemin Cho
+  - name: Matthew Wallingford
+  - name: Rustin Soraki
+  - name: Chris Dongjoo Kim
+  - name: Shuo Liu
+  - name: Donovan Clay
+  - name: Taira Anderson
+  - name: Winson Han
+  - name: Ali Farhadi
+  - name: Bharath Hariharan
+  - name: Zhongzheng Ren
+  - name: Ranjay Krishna
+media:
+  type: image
+  src: /images/publications/wilddet3d.gif
+  alt: WildDet3D teaser
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://allenai.org/papers/wilddet3d'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/WildDet3D'
+  - label: Blog
+    kind: blog
+    url: 'https://allenai.org/blog/wilddet3d'
+  - label: Models
+    kind: models
+    url: 'https://huggingface.co/spaces/allenai/WildDet3D'
+  - label: Dataset
+    kind: dataset
+    url: 'https://huggingface.co/datasets/allenai/WildDet3D-Data'

@@ -1,0 +1,33 @@
+title: 'The One RING: A Robotic Indoor Navigation Generalist'
+date: 2026-01-17
+selected: false
+authors:
+  - name: Ainaz Eftekhar
+  - name: Rose Hendrix
+  - name: Luca Weihs
+  - name: Jiafei Duan
+    highlight: true
+  - name: Ege Caglar
+  - name: Jordi Salvador
+  - name: Alvaro Herrasti
+  - name: Winson Han
+  - name: Eli VanderBilt
+  - name: Aniruddha Kembhavi
+  - name: Ali Farhadi
+  - name: Ranjay Krishna
+  - name: Kiana Ehsani
+  - name: Kuo-Hao Zeng
+venue:
+  - text: 'International Conference on Robotics and Automation (ICRA) 2026'
+    note: 'Oral'
+    note_variant: award
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://one-ring-policy.allen.ai/'
+  - label: Project
+    kind: website
+    url: 'https://one-ring-policy.allen.ai/'
+  - label: Code
+    kind: code
+    url: 'https://one-ring-policy.allen.ai/'

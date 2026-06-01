@@ -7,9 +7,13 @@ authors:
   - name: Wilbert Pumacay
   - name: Nishanth Kumar
   - name: Yi Ru Wang
-  - name: Dieter Fox
-    marks: '‡'
+  - name: Shulin Tian
+  - name: Wentao Yuan
   - name: Ranjay Krishna
+  - name: Dieter Fox
+  - name: Ajay Mandlekar
+    marks: '‡'
+  - name: Yijie Guo
     marks: '‡'
 venue:
   - text: 'International Conference on Learning Representations (ICLR) 2025'

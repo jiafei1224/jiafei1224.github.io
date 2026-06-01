@@ -4,6 +4,7 @@ by_date_asc:
   - 20220601_intuitive_physics
   - 20220701_pip
   - 20230601_gta
+  - 20230601_voe
   - 20230701_ar2d2
   - 20231001_newton
   - 20240101_selective_visual
@@ -15,13 +16,21 @@ by_date_asc:
   - 20241201_aha
   - 20250130_sam2act
   - 20250501_pointarena
+  - 20250901_graspMolmo
+  - 20250902_sat
   - 20251001_failsafe
   - 20260101_molmoact
+  - 20260115_one_ring
+  - 20260115_robocade
+  - 20260115_roboeval
   - 20260201_robomd
   - 20260208_rd-vla
+  - 20260220_vls
+  - 20260225_topreward
   - 20260317_molmobot
   - 20260401_molmospaces
   - 20260501_molmoact2
+  - 20260515_wilddet3d
 
 selected:
   - 20260501_molmoact2

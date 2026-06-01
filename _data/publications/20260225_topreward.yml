@@ -1,0 +1,29 @@
+title: 'TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics'
+date: 2026-02-25
+selected: false
+authors:
+  - name: Shirui Chen
+  - name: Cole Harrison
+  - name: Ying-Chun Lee
+  - name: Angela Jin Yang
+  - name: Jason Ren
+  - name: Lillian J. Ratliff
+  - name: Jiafei Duan
+    marks: '‡'
+    highlight: true
+  - name: Dieter Fox
+    marks: '‡'
+  - name: Ranjay Krishna
+    marks: '‡'
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2602.19313'
+  - label: Code
+    kind: code
+    url: 'https://github.com/TOPReward/TOPReward'
+  - label: Project
+    kind: website
+    url: 'https://topreward.github.io/webpage/'
