@@ -12,6 +12,11 @@ authors:
   - name: Ranjay Krishna
   - name: Jesse Thomason
   - name: Dieter Fox
+media:
+  type: video
+  src: /images/publications/Colossuem.mp4
+  alt: THE COLOSSEUM teaser video
+  playback_rate: 3
 venue:
   - text: 'Robotics: Science and Systems (RSS) 2024'
     note: 'Oral'

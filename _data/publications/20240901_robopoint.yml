@@ -11,6 +11,11 @@ authors:
   - name: Adithyavairavan Murali
   - name: Arsalan Mousavian
   - name: Dieter Fox
+media:
+  type: video
+  src: /images/publications/RoboPoint.mp4
+  alt: RoboPoint teaser video
+  playback_rate: 3
 venue:
   - text: 'Conference on Robot Learning (CoRL) 2024'
 links:

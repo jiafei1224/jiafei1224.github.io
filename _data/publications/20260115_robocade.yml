@@ -11,6 +11,11 @@ authors:
   - name: Jubayer Ibn Hamid
   - name: Michael Cho
   - name: Dorsa Sadigh
+media:
+  type: video
+  src: /images/publications/Roboacade.mp4
+  alt: RoboCade teaser video
+  playback_rate: 3
 venue:
   - text: 'International Conference on Robotics and Automation (ICRA) 2026'
 links:

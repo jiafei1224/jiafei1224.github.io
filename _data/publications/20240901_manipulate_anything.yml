@@ -12,6 +12,11 @@ authors:
   - name: Kiana Ehsani
   - name: Dieter Fox
   - name: Ranjay Krishna
+media:
+  type: video
+  src: /images/publications/ManipulateAnything.mp4
+  alt: Manipulate-Anything teaser video
+  playback_rate: 3
 venue:
   - text: 'Conference on Robot Learning (CoRL) 2024'
 links:

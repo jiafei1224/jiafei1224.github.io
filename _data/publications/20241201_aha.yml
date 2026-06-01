@@ -15,6 +15,11 @@ authors:
     marks: '‡'
   - name: Yijie Guo
     marks: '‡'
+media:
+  type: video
+  src: /images/publications/AHA.mp4
+  alt: AHA teaser video
+  playback_rate: 3
 venue:
   - text: 'International Conference on Learning Representations (ICLR) 2025'
 links:
