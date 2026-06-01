@@ -1,0 +1,24 @@
+title: 'PIP: Physical Interaction Prediction via Mental Simulation with Span Selection'
+date: 2022-07-01
+selected: false
+authors:
+  - name: Jiafei Duan
+    marks: '*'
+    highlight: true
+  - name: Samson Yu
+    marks: '*'
+  - name: Soujanya Poria
+  - name: Bihan Wen
+  - name: Cheston Tan
+venue:
+  - text: 'European Conference on Computer Vision (ECCV) 2022'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2109.04683.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/SamsonYuBaiJian/pip'
+  - label: Project
+    kind: website
+    url: 'https://sites.google.com/view/piphysics/home'

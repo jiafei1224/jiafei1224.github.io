@@ -1,0 +1,24 @@
+title: 'Octopi: Object Property Reasoning with Large Tactile-Language Models'
+date: 2024-07-01
+selected: false
+authors:
+  - name: Samson Yu
+  - name: Kelvin Lin
+  - name: Anxing Xiao
+  - name: Jiafei Duan
+    highlight: true
+  - name: Harold Soh
+venue:
+  - text: 'Robotics: Science and Systems (RSS) 2024'
+    note: 'Oral'
+    note_variant: award
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2405.02794'
+  - label: Code
+    kind: code
+    url: 'https://github.com/clear-nus/octopi'
+  - label: Project
+    kind: website
+    url: 'https://octopi-tactile-lvlm.github.io/'

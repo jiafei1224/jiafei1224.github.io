@@ -1,0 +1,26 @@
+title: 'Manipulate-Anything: Automating Real-World Robots using Vision-Language Models'
+date: 2024-09-01
+selected: true
+authors:
+  - name: Jiafei Duan
+    marks: '*'
+    highlight: true
+  - name: Wentao Yuan
+    marks: '*'
+  - name: Wilbert Pumacay
+  - name: Yi Ru Wang
+  - name: Kiana Ehsani
+  - name: Dieter Fox
+  - name: Ranjay Krishna
+venue:
+  - text: 'Conference on Robot Learning (CoRL) 2024'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2406.18915'
+  - label: Code
+    kind: code
+    url: 'https://github.com/Robot-MA/manipulate-anything'
+  - label: Project
+    kind: website
+    url: 'https://robot-ma.github.io/'

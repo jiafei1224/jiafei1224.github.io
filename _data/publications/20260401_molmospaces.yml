@@ -1,0 +1,28 @@
+title: 'MolmoSpaces: Large-Scale Open Ecosystem for Robot Navigation and Manipulation'
+date: 2026-04-01
+selected: false
+authors:
+  - name: Yejin Kim
+    marks: '*'
+  - name: Wilbert Pumacay
+    marks: '*'
+  - name: Jiafei Duan
+    highlight: true
+  - name: Dieter Fox
+    marks: '‡'
+  - name: Ranjay Krishna
+    marks: '‡'
+venue:
+  - text: 'Robotics: Science and Systems (RSS) 2026'
+    note: 'Oral'
+    note_variant: award
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://allenai.org/papers/molmospaces'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/molmospaces'
+  - label: Blog
+    kind: blog
+    url: 'https://allenai.org/blog/molmospaces'

@@ -1,0 +1,25 @@
+title: 'A Survey on Machine Learning Approaches for Modelling Intuitive Physics'
+date: 2022-06-01
+selected: false
+authors:
+  - name: Jiafei Duan
+    marks: '*'
+    highlight: true
+  - name: Arijit Dasgupta
+    marks: '*'
+  - name: Jason Fischer
+  - name: Cheston Tan
+venue:
+  - text: 'International Joint Conference on Artificial Intelligence (IJCAI) 2022'
+    note: 'Oral'
+    note_variant: award
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2202.06481.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/jiafei1224/awesome-intuitive-physics-ai'
+  - label: Video
+    kind: website
+    url: 'https://ijcai-22.org/video/?vid=38985430'

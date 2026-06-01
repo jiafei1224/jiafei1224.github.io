@@ -1,0 +1,53 @@
+title: 'MolmoAct: Action Reasoning Models that Reason in Space'
+date: 2026-01-01
+selected: true
+authors:
+  - name: Jason Lee
+    marks: '*§'
+  - name: Jiafei Duan
+    marks: '*§'
+    highlight: true
+  - name: Haoquan Fang
+    marks: '*§'
+  - name: Yuquan Deng
+    marks: '§'
+  - name: Shuo Liu
+    marks: '§'
+  - name: Yi Ru Wang
+    marks: '§'
+  - name: Wilbert Pumacay
+  - name: Ali Farhadi
+  - name: Dieter Fox
+    marks: '§‡'
+  - name: Ranjay Krishna
+    marks: '§‡'
+venue:
+  - text: 'International Conference on Robotics and Automation (ICRA) 2026'
+  - text: 'Rational Robots @ CoRL 2025'
+    note: 'Best Paper Award Runner-up'
+    note_variant: award
+  - text: 'Data @ CoRL 2025'
+    note: 'Best Paper Award Nominee'
+    note_variant: award
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2508.07917'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/MolmoAct'
+  - label: Blog
+    kind: blog
+    url: 'https://allenai.org/blog/molmoact'
+  - label: Models
+    kind: models
+    url: 'https://huggingface.co/collections/allenai/molmoact-689697591a3936fba38174d7'
+  - label: Datasets
+    kind: dataset
+    url: 'https://huggingface.co/datasets/allenai/MolmoAct-Pretraining-Mixture'
+  - label: VentureBeat
+    kind: report
+    url: 'https://venturebeat.com/ai/ai2s-molmoact-model-thinks-in-3d-to-challenge-nvidia-and-google-in-robotics-ai'
+  - label: GeekWire
+    kind: report
+    url: 'https://www.geekwire.com/2025/ai2-unveils-molmoact-an-open-source-robotics-system-that-reasons-in-3D-and-adjusts-on-the-fly/'

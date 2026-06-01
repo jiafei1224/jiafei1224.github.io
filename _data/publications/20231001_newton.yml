@@ -1,0 +1,24 @@
+title: 'NEWTON: Are Large Language Models Capable of Physical Reasoning?'
+date: 2023-10-01
+selected: false
+authors:
+  - name: Yi Ru Wang
+  - name: Jiafei Duan
+    highlight: true
+  - name: Dieter Fox
+  - name: Siddhartha Srinivasa
+venue:
+  - text: 'Empirical Methods in Natural Language Processing (EMNLP) 2023'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2310.07018.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/NewtonReasoning/Newton'
+  - label: Project
+    kind: website
+    url: 'https://newtonreasoning.github.io/'
+  - label: Dataset
+    kind: dataset
+    url: 'https://huggingface.co/datasets/NEWTONReasoning/NEWTON/'

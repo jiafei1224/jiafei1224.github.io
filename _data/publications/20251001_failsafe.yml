@@ -1,0 +1,26 @@
+title: 'FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models'
+date: 2025-10-01
+selected: false
+authors:
+  - name: Zijun Lin
+  - name: Jiafei Duan
+    highlight: true
+  - name: Haoquan Fang
+  - name: Dieter Fox
+    marks: '‡'
+  - name: Ranjay Krishna
+    marks: '‡'
+  - name: Cheston Tan
+  - name: Bihan Wen
+venue:
+  - text: 'arXiv 2025'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2510.01642'
+  - label: Code
+    kind: code
+    url: 'https://github.com/Jimntu/FailSafe_code'
+  - label: Project
+    kind: website
+    url: 'https://jimntu.github.io/FailSafe/'

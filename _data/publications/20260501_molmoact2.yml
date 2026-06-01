@@ -1,0 +1,31 @@
+title: 'MolmoAct2: Action Reasoning Models for Real-World Deployment'
+date: 2026-05-01
+selected: true
+authors:
+  - name: Haoquan Fang
+    marks: '*'
+  - name: Jiafei Duan
+    marks: '*'
+    highlight: true
+  - name: Jason Lee
+    marks: '*'
+  - name: Yuquan Deng
+  - name: Yi Ru Wang
+  - name: Wilbert Pumacay
+  - name: Ali Farhadi
+  - name: Dieter Fox
+    marks: '‡'
+  - name: Ranjay Krishna
+    marks: '‡'
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2605.02881'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/molmoact2'
+  - label: Blog
+    kind: blog
+    url: 'https://allenai.org/blog/molmoact2'

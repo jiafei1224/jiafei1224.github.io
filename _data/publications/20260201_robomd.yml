@@ -1,0 +1,24 @@
+title: 'From Mystery to Mastery: Failure Diagnosis and Recovery for Robotic Manipulation'
+date: 2026-02-01
+selected: false
+authors:
+  - name: Som Sager
+  - name: Jiafei Duan
+    highlight: true
+  - name: Sreevishakh Vasudevan
+  - name: Ranjay Krishna
+    marks: '‡'
+  - name: Dieter Fox
+    marks: '‡'
+venue:
+  - text: 'International Conference on Learning Representations (ICLR) 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2412.02818'
+  - label: Code
+    kind: code
+    url: 'https://github.com/somsagar07/RoboMD'
+  - label: Project
+    kind: website
+    url: 'https://somsagar07.github.io/RoboMD/'

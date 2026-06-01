@@ -1,13 +1,31 @@
 by_date_asc:
+  - 20201001_actionet
+  - 20220101_embodiedai_survey
+  - 20220601_intuitive_physics
+  - 20220701_pip
+  - 20230601_gta
+  - 20230701_ar2d2
+  - 20231001_newton
+  - 20240101_selective_visual
+  - 20240701_colosseum
+  - 20240701_octopi
+  - 20240801_eve
+  - 20240901_robopoint
+  - 20240901_manipulate_anything
+  - 20241201_aha
   - 20250130_sam2act
-  - 20250515_pointarena
-  - 20250812_molmoact
-  - 20251002_failsafe
-  - 20260208_rd-vla
-  - 20260317_molmob0t
-  - 20260505_molmoact2
+  - 20250501_pointarena
+  - 20251001_failsafe
+  - 20260101_molmoact
+  - 20260201_robomd
+  - 20260401_molmospaces
+  - 20260501_molmoact2
 
 selected:
-  - 20260505_molmoact2
-  - 20250812_molmoact
+  - 20260501_molmoact2
+  - 20260101_molmoact
   - 20250130_sam2act
+  - 20241201_aha
+  - 20240901_manipulate_anything
+  - 20240701_colosseum
+  - 20230701_ar2d2

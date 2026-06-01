@@ -1,0 +1,22 @@
+title: 'AR2-D2: Training a Robot Without a Robot'
+date: 2023-07-01
+selected: true
+authors:
+  - name: Jiafei Duan
+    highlight: true
+  - name: Yi Ru Wang
+  - name: Mohit Shridhar
+  - name: Dieter Fox
+  - name: Ranjay Krishna
+venue:
+  - text: 'Conference on Robot Learning (CoRL) 2023'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/abs/2306.13818'
+  - label: Code
+    kind: code
+    url: 'https://github.com/jiafei1224/AR2-D2'
+  - label: Project
+    kind: website
+    url: 'http://ar2d2.site/'

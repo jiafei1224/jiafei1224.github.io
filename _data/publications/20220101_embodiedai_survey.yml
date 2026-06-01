@@ -1,0 +1,16 @@
+title: 'A Survey of Embodied AI: From Simulators to Research Tasks'
+date: 2022-01-01
+selected: false
+authors:
+  - name: Jiafei Duan
+    highlight: true
+  - name: Samson Yu
+  - name: Hui Li Tan
+  - name: Hongyuan Zhu
+  - name: Cheston Tan
+venue:
+  - text: 'IEEE Transactions on Emerging Topics in Computational Intelligence'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://ieeexplore.ieee.org/document/9687596'

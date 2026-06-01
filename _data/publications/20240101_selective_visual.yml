@@ -1,0 +1,27 @@
+title: 'Selective Visual Representations Improve Convergence and Generalization for Embodied AI'
+date: 2024-01-15
+selected: false
+authors:
+  - name: Ainaz Eftekhar
+    marks: '*'
+  - name: Kuo-Hao Zeng
+    marks: '*'
+  - name: Jiafei Duan
+    highlight: true
+  - name: Ali Farhadi
+  - name: Ani Kembhavi
+  - name: Ranjay Krishna
+venue:
+  - text: 'International Conference on Learning Representations (ICLR) 2024'
+    note: 'Spotlight'
+    note_variant: award
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2311.04193.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/procthor-rl'
+  - label: Project
+    kind: website
+    url: 'https://embodied-codebook.github.io/'

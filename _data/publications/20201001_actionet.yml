@@ -1,0 +1,21 @@
+title: 'ActioNet: Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environment'
+date: 2020-10-01
+selected: false
+authors:
+  - name: Jiafei Duan
+    highlight: true
+  - name: Samson Yu
+  - name: Hui Li Tan
+  - name: Cheston Tan
+venue:
+  - text: 'IEEE International Conference on Image Processing (ICIP) 2020'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/abs/2010.01357'
+  - label: Code
+    kind: code
+    url: 'https://github.com/SamsonYuBaiJian/actionet'
+  - label: Video
+    kind: website
+    url: 'https://www.youtube.com/watch?v=nZAegJgGe8E'

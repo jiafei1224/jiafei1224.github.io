@@ -1,0 +1,23 @@
+title: 'Good Time to Ask: A Learning Framework for Asking for Help in Navigation'
+date: 2023-06-01
+selected: false
+authors:
+  - name: Jenny Zhang
+  - name: Samson Yu
+  - name: Jiafei Duan
+    highlight: true
+  - name: Cheston Tan
+venue:
+  - text: 'Ubiquitous Robots 2023'
+    note: 'Best Paper Award'
+    note_variant: award
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202397'
+  - label: Project
+    kind: website
+    url: 'https://www.jennyzhangzt.com/gta/'
+  - label: Code
+    kind: code
+    url: 'https://github.com/jennyzzt/good_time_to_ask'

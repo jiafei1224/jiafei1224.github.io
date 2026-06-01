@@ -1,0 +1,25 @@
+title: 'RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics'
+date: 2024-09-01
+selected: false
+authors:
+  - name: Wentao Yuan
+  - name: Jiafei Duan
+    highlight: true
+  - name: Valts Blukis
+  - name: Wilbert Pumacay
+  - name: Ranjay Krishna
+  - name: Adithyavairavan Murali
+  - name: Arsalan Mousavian
+  - name: Dieter Fox
+venue:
+  - text: 'Conference on Robot Learning (CoRL) 2024'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2406.10721'
+  - label: Code
+    kind: code
+    url: 'https://github.com/wentaoyuan/RoboPoint'
+  - label: Project
+    kind: website
+    url: 'https://robo-point.github.io/'

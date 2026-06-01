@@ -1,0 +1,21 @@
+title: 'EVE: Enabling Anyone to Train Robots Using Augmented Reality'
+date: 2024-08-01
+selected: false
+authors:
+  - name: Jun Wang
+  - name: Chun-Cheng Chang
+    marks: '*'
+  - name: Jiafei Duan
+    marks: '*'
+    highlight: true
+  - name: Dieter Fox
+  - name: Ranjay Krishna
+venue:
+  - text: 'ACM Symposium on User Interface Software and Technology (UIST) 2024'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2404.06089.pdf'
+  - label: Project
+    kind: website
+    url: 'https://junwang0510.github.io/EVE/'

@@ -1,0 +1,30 @@
+title: 'PointArena: Probing Multimodal Grounding Through Language-Guided Pointing'
+date: 2025-05-01
+selected: false
+authors:
+  - name: Long Cheng
+    marks: '*'
+  - name: Jiafei Duan
+    marks: '*'
+    highlight: true
+  - name: Yi Ru Wang
+    marks: '†'
+  - name: Ranjay Krishna
+    marks: '‡'
+  - name: Dieter Fox
+    marks: '‡'
+venue:
+  - text: 'arXiv 2025'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2505.09990'
+  - label: Code
+    kind: code
+    url: 'https://github.com/pointarena/pointarena'
+  - label: Project
+    kind: website
+    url: 'https://pointarena.github.io/'
+  - label: Dataset
+    kind: dataset
+    url: 'https://huggingface.co/datasets/PointArena/pointarena-data'

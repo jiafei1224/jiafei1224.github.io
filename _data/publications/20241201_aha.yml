@@ -1,0 +1,25 @@
+title: 'AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation'
+date: 2024-12-01
+selected: true
+authors:
+  - name: Jiafei Duan
+    highlight: true
+  - name: Wilbert Pumacay
+  - name: Nishanth Kumar
+  - name: Yi Ru Wang
+  - name: Dieter Fox
+    marks: '‡'
+  - name: Ranjay Krishna
+    marks: '‡'
+venue:
+  - text: 'International Conference on Learning Representations (ICLR) 2025'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://aha-vlm.github.io/Aha_paper.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/NVlabs/AHA/tree/main'
+  - label: Project
+    kind: website
+    url: 'https://aha-vlm.github.io/'
