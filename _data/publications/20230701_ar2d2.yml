@@ -8,6 +8,10 @@ authors:
   - name: Mohit Shridhar
   - name: Dieter Fox
   - name: Ranjay Krishna
+media:
+  type: image
+  src: /images/publications/AR2D2.gif
+  alt: AR2-D2 teaser
 venue:
   - text: 'Conference on Robot Learning (CoRL) 2023'
 links:

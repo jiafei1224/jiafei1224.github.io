@@ -17,6 +17,10 @@ authors:
     marks: '‡'
   - name: Kate Saenko
     marks: '‡'
+media:
+  type: image
+  src: /images/publications/SAT.gif
+  alt: SAT teaser
 venue:
   - text: 'Conference on Language Modeling (COLM) 2025'
 links:

@@ -8,6 +8,10 @@ authors:
   - name: Jiafei Duan
     highlight: true
   - name: Harold Soh
+media:
+  type: image
+  src: /images/publications/Octopi.gif
+  alt: Octopi teaser
 venue:
   - text: 'Robotics: Science and Systems (RSS) 2024'
     note: 'Oral'

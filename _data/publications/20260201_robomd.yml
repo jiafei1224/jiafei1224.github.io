@@ -10,6 +10,10 @@ authors:
     marks: '‡'
   - name: Dieter Fox
     marks: '‡'
+media:
+  type: image
+  src: /images/publications/RoboMD.gif
+  alt: RoboMD teaser
 venue:
   - text: 'International Conference on Learning Representations (ICLR) 2026'
 links:

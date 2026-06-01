@@ -10,6 +10,11 @@ authors:
     highlight: true
   - name: Ranjay Krishna
     marks: '‡'
+media:
+  type: video
+  src: /images/publications/vls.mp4
+  alt: VLS teaser video
+  playback_rate: 3
 venue:
   - text: 'arXiv 2026'
 links:

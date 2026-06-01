@@ -22,10 +22,9 @@ authors:
   - name: Ranjay Krishna
     marks: '§‡'
 media:
-  type: video
-  src: /images/publications/20250812_molmoact.mp4
-  alt: MolmoAct teaser video
-  playback_rate: 3
+  type: image
+  src: /images/publications/MolmoAct.gif
+  alt: MolmoAct teaser
 venue:
   - text: 'International Conference on Robotics and Automation (ICRA) 2026'
   - text: 'Rational Robots @ CoRL 2025'

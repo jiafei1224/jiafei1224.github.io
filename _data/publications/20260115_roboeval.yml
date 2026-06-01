@@ -16,6 +16,10 @@ authors:
   - name: Ranjay Krishna
   - name: Dieter Fox
   - name: Siddhartha Srinivasa
+media:
+  type: image
+  src: /images/publications/RoboEval.gif
+  alt: RoboEval teaser
 venue:
   - text: 'International Conference on Robotics and Automation (ICRA) 2026'
 links:

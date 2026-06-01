@@ -11,6 +11,10 @@ authors:
   - name: Ali Farhadi
   - name: Ani Kembhavi
   - name: Ranjay Krishna
+media:
+  type: image
+  src: /images/publications/SelectiveAttention.gif
+  alt: Selective Visual Representations teaser
 venue:
   - text: 'International Conference on Learning Representations (ICLR) 2024'
     note: 'Spotlight'

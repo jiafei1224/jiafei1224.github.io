@@ -7,6 +7,10 @@ authors:
     highlight: true
   - name: Dieter Fox
   - name: Siddhartha Srinivasa
+media:
+  type: image
+  src: /images/publications/NETWON.gif
+  alt: NEWTON teaser
 venue:
   - text: 'Empirical Methods in Natural Language Processing (EMNLP) 2023'
 links:

@@ -17,6 +17,10 @@ authors:
   - name: Ranjay Krishna
   - name: Kiana Ehsani
   - name: Kuo-Hao Zeng
+media:
+  type: image
+  src: /images/publications/ring_teaser.gif
+  alt: The One RING teaser
 venue:
   - text: 'International Conference on Robotics and Automation (ICRA) 2026'
     note: 'Oral'
