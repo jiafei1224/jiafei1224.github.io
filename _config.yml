@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "air_dark"
 title                    : "Jiafei Duan"
 mast_title               : "About"
 title_separator          : "-"
