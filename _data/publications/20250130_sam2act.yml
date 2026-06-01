@@ -13,6 +13,11 @@ authors:
   - name: Jiafei Duan
     marks: '‡'
     highlight: true
+media:
+  type: video
+  src: /images/publications/20250130_sam2act.mp4
+  alt: SAM2Act teaser video
+  playback_rate: 3
 venue:
   - text: 'International Conference on Machine Learning (ICML) 2025'
   - text: 'RemembeRL @ CoRL 2025'

@@ -12,6 +12,11 @@ authors:
     marks: '‡'
   - name: Cheston Tan
   - name: Bihan Wen
+media:
+  type: video
+  src: /images/publications/20251002_failsafe.mp4
+  alt: FailSafe teaser video
+  playback_rate: 3
 venue:
   - text: 'arXiv 2025'
 links:

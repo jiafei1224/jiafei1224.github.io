@@ -13,6 +13,11 @@ authors:
     marks: '‡'
   - name: Dieter Fox
     marks: '‡'
+media:
+  type: video
+  src: /images/publications/20250515_pointarena.mp4
+  alt: PointArena teaser video
+  playback_rate: 3
 venue:
   - text: 'arXiv 2025'
 links:

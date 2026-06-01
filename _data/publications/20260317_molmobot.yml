@@ -1,0 +1,31 @@
+title: 'MolmoBot: Training Robot Manipulation Entirely in Simulation'
+date: 2026-03-17
+selected: false
+authors:
+  - name: Abhay Deshpande
+    marks: '*'
+  - name: Maya Guru
+    marks: '*'
+  - name: Jiafei Duan
+    highlight: true
+  - name: Ranjay Krishna
+    marks: '‡'
+  - name: Dieter Fox
+    marks: '‡'
+media:
+  type: video
+  src: /images/publications/20260317_molmob0t.mp4
+  alt: MolmoBot teaser video
+  playback_rate: 3
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://allenai.org/papers/molmobot'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/molmospaces'
+  - label: Blog
+    kind: blog
+    url: 'https://allenai.org/blog/molmobot-robot-manipulation'

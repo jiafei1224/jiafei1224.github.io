@@ -1,0 +1,32 @@
+title: 'Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning'
+date: 2026-02-08
+selected: false
+authors:
+  - name: Yalcin Tur
+  - name: Jalal Naghiyev
+  - name: Haoquan Fang
+  - name: Wei-Chuan Tsai
+  - name: Jiafei Duan
+    marks: '‡'
+    highlight: true
+  - name: Dieter Fox
+    marks: '‡'
+  - name: Ranjay Krishna
+    marks: '‡'
+media:
+  type: video
+  src: /images/publications/20260208_rd-vla.mp4
+  alt: Recurrent-Depth VLA teaser video
+  playback_rate: 3
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/abs/2602.07845'
+  - label: Code
+    kind: code
+    url: 'https://github.com/rd-vla/rd-vla'
+  - label: Project
+    kind: website
+    url: 'https://rd-vla.github.io/'

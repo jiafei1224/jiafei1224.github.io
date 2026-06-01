@@ -17,6 +17,11 @@ authors:
     marks: '‡'
   - name: Ranjay Krishna
     marks: '‡'
+media:
+  type: video
+  src: /images/publications/20260505_molmoact2.mp4
+  alt: MolmoAct2 teaser video
+  playback_rate: 3
 venue:
   - text: 'arXiv 2026'
 links:
