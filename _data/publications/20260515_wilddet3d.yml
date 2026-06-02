@@ -3,7 +3,9 @@ date: 2026-05-15
 selected: false
 authors:
   - name: Weikai Huang
+    marks: '*'
   - name: Jieyu Zhang
+    marks: '*'
   - name: Sijun Li
   - name: Taoyang Jia
   - name: Jiafei Duan
@@ -20,7 +22,9 @@ authors:
   - name: Ali Farhadi
   - name: Bharath Hariharan
   - name: Zhongzheng Ren
+    marks: '‡'
   - name: Ranjay Krishna
+    marks: '‡'
 media:
   type: image
   src: /images/publications/wilddet3d.gif
