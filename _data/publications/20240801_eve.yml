@@ -10,6 +10,10 @@ authors:
     highlight: true
   - name: Dieter Fox
   - name: Ranjay Krishna
+media:
+  type: video
+  src: /images/publications/eve.mp4
+  alt: EVE teaser video
 venue:
   - text: 'ACM Symposium on User Interface Software and Technology (UIST) 2024'
 links:

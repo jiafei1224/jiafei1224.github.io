@@ -13,6 +13,10 @@ authors:
   - name: Yuke Zhu
   - name: Ranjay Krishna
   - name: Rose Hendrix
+media:
+  type: video
+  src: /images/publications/graspmolmo.mp4
+  alt: GraspMolmo teaser video
 venue:
   - text: 'Conference on Robot Learning (CoRL) 2025'
 links:
