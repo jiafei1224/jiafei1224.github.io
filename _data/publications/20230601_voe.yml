@@ -10,6 +10,10 @@ authors:
   - name: Su-Hua Wang
   - name: Renée Baillargeon
   - name: Cheston Tan
+media:
+  type: image
+  src: /images/publications/PIP_Paper.png
+  alt: VoE teaser
 venue:
   - text: 'Annual Conference of the Cognitive Science Society (CogSci) 2023'
 links:

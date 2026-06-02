@@ -10,6 +10,10 @@ authors:
   - name: Soujanya Poria
   - name: Bihan Wen
   - name: Cheston Tan
+media:
+  type: image
+  src: /images/publications/PIP.png
+  alt: PIP teaser
 venue:
   - text: 'European Conference on Computer Vision (ECCV) 2022'
 links:

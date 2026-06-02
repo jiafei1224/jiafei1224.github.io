@@ -8,6 +8,10 @@ authors:
   - name: Hui Li Tan
   - name: Hongyuan Zhu
   - name: Cheston Tan
+media:
+  type: image
+  src: /images/publications/SurveyOnEmbodiedAI.webp
+  alt: Survey of Embodied AI teaser
 venue:
   - text: 'IEEE Transactions on Emerging Topics in Computational Intelligence'
 links:

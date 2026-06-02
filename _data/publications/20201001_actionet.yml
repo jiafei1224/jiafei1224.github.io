@@ -7,6 +7,10 @@ authors:
   - name: Samson Yu
   - name: Hui Li Tan
   - name: Cheston Tan
+media:
+  type: image
+  src: /images/publications/ActioNet.jpg
+  alt: ActioNet teaser
 venue:
   - text: 'IEEE International Conference on Image Processing (ICIP) 2020'
 links:

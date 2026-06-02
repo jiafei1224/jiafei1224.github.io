@@ -9,6 +9,10 @@ authors:
     marks: '*'
   - name: Jason Fischer
   - name: Cheston Tan
+media:
+  type: image
+  src: /images/publications/Surveyonphysics.png
+  alt: Survey on Intuitive Physics teaser
 venue:
   - text: 'International Joint Conference on Artificial Intelligence (IJCAI) 2022'
     note: 'Oral'

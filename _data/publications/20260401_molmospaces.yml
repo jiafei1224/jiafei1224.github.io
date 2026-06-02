@@ -12,6 +12,10 @@ authors:
     marks: '‡'
   - name: Ranjay Krishna
     marks: '‡'
+media:
+  type: video
+  src: /images/publications/MolmoSpace.mp4
+  alt: MolmoSpaces teaser video
 venue:
   - text: 'Robotics: Science and Systems (RSS) 2026'
     note: 'Oral'
