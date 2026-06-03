@@ -1,17 +1,34 @@
-title: 'MolmoSpaces: Large-Scale Open Ecosystem for Robot Navigation and Manipulation'
+title: 'MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation'
 date: 2026-04-01
 selected: false
 authors:
   - name: Yejin Kim
-    marks: '*'
   - name: Wilbert Pumacay
-    marks: '*'
+  - name: Omar Rayyan
+  - name: Max Argus
+  - name: Winson Han
+  - name: Eli VanderBilt
+  - name: Jordi Salvador
+  - name: Abhay Deshpande
+  - name: Rose Hendrix
+  - name: Snehal Jauhri
+  - name: Shuo Liu
+  - name: Nur Muhammad Mahi Shafiullah
+  - name: Maya Guru
+  - name: Ainaz Eftekhar
+  - name: Karen Farley
+  - name: Donovan Clay
   - name: Jiafei Duan
     highlight: true
+  - name: Arjun Guru
+  - name: Piper Wolters
+  - name: Alvaro Herrasti
+  - name: Ying-Chun Lee
+  - name: Georgia Chalvatzaki
+  - name: Yuchen Cui
+  - name: Ali Farhadi
   - name: Dieter Fox
-    marks: '‡'
   - name: Ranjay Krishna
-    marks: '‡'
 media:
   type: video
   src: /images/publications/MolmoSpace.mp4
