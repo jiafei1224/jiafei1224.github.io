@@ -24,7 +24,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
   <li><strong>[2026/04]</strong> Our paper <em>MolmoSpaces: Large-Scale Open Ecosystem for Robot Navigation and Manipulation</em> has been accepted to <a href="https://roboticsconference.org/">RSS 2026</a> as <span style="color:red;">Oral</span>.</li>
   <li><strong>[2026/02]</strong> Our paper <em>From Mystery to Mastery: Failure Diagnosis and Recovery for Robotic Manipulation</em> has been accepted to <a href="https://iclr.cc/">ICLR 2026</a>.</li>
   <li><strong>[2026/01]</strong> Our paper <em>MolmoAct: Action Reasoning Models that Reason in Space</em> has been accepted to <a href="https://2026.ieee-icra.org/">ICRA 2026</a>.</li>
-  <li><strong>[2025/12]</strong> Honored to join NUS as an inaugural <strong>Presidential Young Professor</strong>, directing the MAGIC Lab.</li>
+  <li><strong>[2025/12]</strong> Honored to join NUS as a <strong>Presidential Young Professor</strong>, directing the <a href="https://magic-ailab.github.io/">MAGIC Lab</a>.</li>
   <li><strong>[2025/10]</strong> Our paper <em>FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models</em> has been preprinted to arXiv.</li>
   <li><strong>[2025/09]</strong> Our paper <em>SAM2Act</em> has been selected as <span style="color:red;">Best Paper Award</span> at <a href="https://rememberl-corl25.github.io/">RemembeRL @ CoRL 2025</a>.</li>
   <li><strong>[2025/05]</strong> Our paper <em>SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation</em> has been accepted to <a href="https://icml.cc/">ICML 2025</a>.</li>
