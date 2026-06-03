@@ -9,7 +9,7 @@ redirect_from:
 
 <div id="about" aria-hidden="true"></div>
 
-<span id="handwave">👋🏻</span> Hi! I'm an incoming **Presidential Young Professor** at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing, where I will direct the **MAGIC Lab**. I am completing my PhD in Computer Science at the [University of Washington](https://washington.edu/), co-advised by Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/) and Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/). I am also a Graduate Student Researcher at the [Allen Institute for AI (AI2)](https://allenai.org/), working with the [PRIOR](https://prior.allenai.org/) and [Robotics](https://allenai.org/embodied-ai/) teams.
+<span id="handwave">👋🏻</span> Hi! I'm an incoming **Presidential Young Professor** at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing, where I will direct the [**MAGIC Lab**](https://magic-ailab.github.io/). I am completing my PhD in Computer Science at the [University of Washington](https://washington.edu/), co-advised by Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/) and Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/). I am also a Graduate Student Researcher at the [Allen Institute for AI (AI2)](https://allenai.org/), working with the [PRIOR](https://prior.allenai.org/) and [Robotics](https://allenai.org/embodied-ai/) teams.
 
 My research mission is simple: **I teach robots to perceive, reason, and act.** I focus on robot learning, embodied AI, and building large-scale robotics foundation models that are deployable in the real world.
 
