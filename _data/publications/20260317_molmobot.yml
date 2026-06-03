@@ -1,17 +1,34 @@
-title: 'MolmoBot: Training Robot Manipulation Entirely in Simulation'
+title: 'MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation'
 date: 2026-03-17
 selected: false
 authors:
   - name: Abhay Deshpande
-    marks: '*'
   - name: Maya Guru
-    marks: '*'
+  - name: Rose Hendrix
+  - name: Snehal Jauhri
+  - name: Ainaz Eftekhar
+  - name: Rohun Tripathi
+  - name: Max Argus
+  - name: Jordi Salvador
+  - name: Haoquan Fang
+  - name: Matthew Wallingford
+  - name: Wilbert Pumacay
+  - name: Yejin Kim
+  - name: Quinn Pfeifer
+  - name: Ying-Chun Lee
+  - name: Piper Wolters
+  - name: Omar Rayyan
+  - name: Mingtong Zhang
   - name: Jiafei Duan
     highlight: true
-  - name: Ranjay Krishna
-    marks: '‡'
+  - name: Karen Farley
+  - name: Winson Han
+  - name: Eli Vanderbilt
   - name: Dieter Fox
-    marks: '‡'
+  - name: Ali Farhadi
+  - name: Georgia Chalvatzaki
+  - name: Dhruv Shah
+  - name: Ranjay Krishna
 media:
   type: video
   src: /images/publications/20260317_molmob0t.mp4
