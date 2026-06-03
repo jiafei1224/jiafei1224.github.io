@@ -18,6 +18,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/06]</strong> Honored to be a finalist for the <a href="https://e2e3d.github.io/rising_star.html">Rising Star Award for Spatial Intelligence</a> at the CVPR E2E3D Workshop.</li>
   <li><strong>[2026/06]</strong> Our paper <em>MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation</em> has received the <span style="color:red;">Best Paper Award</span> at the <a href="https://sites.google.com/view/icra-2026-sdrl-workshop">ICRA 2026 SDRL Workshop</a>.</li>
   <li><strong>[2026/05]</strong> We are launching <em><a href="https://allenai.org/blog/molmoact2">MolmoAct2: Action Reasoning Models for Real-World Deployment</a></em>.</li>
   <li><strong>[2026/04]</strong> Our paper <em>MolmoSpaces: Large-Scale Open Ecosystem for Robot Navigation and Manipulation</em> has been accepted to <a href="https://roboticsconference.org/">RSS 2026</a> as <span style="color:red;">Oral</span>.</li>
