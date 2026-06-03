@@ -35,7 +35,9 @@ media:
   alt: MolmoBot teaser video
   playback_rate: 3
 venue:
-  - text: 'arXiv 2026'
+  - text: 'ICRA 2026 SDRL Workshop'
+    note: 'Best Paper Award'
+    note_variant: award
 links:
   - label: Paper
     kind: paper
