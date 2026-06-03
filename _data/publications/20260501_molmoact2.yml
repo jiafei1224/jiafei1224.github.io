@@ -64,3 +64,21 @@ links:
   - label: Blog
     kind: blog
     url: 'https://allenai.org/blog/molmoact2'
+  - label: Hardware
+    kind: hardware
+    url: 'https://i2rt.com/products/molmoact-2-research-kit'
+  - label: SiliconAngle
+    kind: report
+    url: 'https://siliconangle.com/2026/05/05/ai2-releases-molmoact-2-enhancing-robot-intelligence-real-world/'
+  - label: TechTimes
+    kind: report
+    url: 'https://www.techtimes.com/articles/317145/20260525/open-source-robotics-model-molmoact2-ai2-beats-05-releases-720-hour-bimanual-dataset.htm'
+  - label: RoboticsNews
+    kind: report
+    url: 'https://roboticsandautomationnews.com/2026/05/14/ai2-releases-open-robotics-model-designed-for-real-world-ai-automation/101553/'
+  - label: AIEconomy
+    kind: report
+    url: 'https://theaieconomy.substack.com/p/molmoact-2-leaves-the-lab'
+  - label: AIInsider
+    kind: report
+    url: 'https://theaiinsider.tech/2026/05/06/ai2-releases-molmoact-2-open-source-foundation-model-for-robots/'
