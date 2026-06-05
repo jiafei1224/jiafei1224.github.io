@@ -19,6 +19,9 @@ venue:
   - text: 'CVPR 2026 3D-LLM/VLA Workshop'
     note: 'Best Paper Runner-Up'
     note_variant: award
+  - text: 'Foundation Models Meet Embodied Agents @ CVPR 2026'
+    note: 'Outstanding Paper Award'
+    note_variant: award
 links:
   - label: Paper
     kind: paper
