@@ -38,6 +38,9 @@ venue:
   - text: 'ICRA 2026 Beyond Teleoperation Workshop'
     note: 'Best Paper Award'
     note_variant: award
+  - text: 'ICRA 2026 VLA Pipeline Workshop'
+    note: 'Best Paper Award'
+    note_variant: award
   - text: 'ICRA 2026 SDRL Workshop'
     note: 'Best Paper Award'
     note_variant: award
