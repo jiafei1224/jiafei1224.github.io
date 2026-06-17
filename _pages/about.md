@@ -18,6 +18,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/06]</strong> Our paper <em>FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models</em> has been accepted to <a href="https://2026.ieee-iros.org/">IROS 2026</a>.</li>
   <li><strong>[2026/06]</strong> Honored to be a finalist for the <a href="https://e2e3d.github.io/rising_star.html">Rising Star Award for Spatial Intelligence</a> at the CVPR E2E3D Workshop.</li>
   <li><strong>[2026/06]</strong> Invited to serve as Area Chair for <a href="https://www.corl.org/">CoRL 2026</a>.</li>
   <li><strong>[2026/06]</strong> Our paper <em>VLS: Steering Pretrained Robot Policies via Vision–Language Models</em> has received the <span style="color:red;">Outstanding Paper Award</span> at the <a href="https://foundation-models-meet-embodied-agents.github.io/cvpr2026/">Foundation Models Meet Embodied Agents @ CVPR 2026</a>.</li>

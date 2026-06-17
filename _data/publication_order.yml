@@ -18,7 +18,6 @@ by_date_asc:
   - 20250501_pointarena
   - 20250901_graspMolmo
   - 20250902_sat
-  - 20251001_failsafe
   - 20260101_molmoact
   - 20260115_one_ring
   - 20260115_robocade
@@ -31,6 +30,7 @@ by_date_asc:
   - 20260401_molmospaces
   - 20260501_molmoact2
   - 20260515_wilddet3d
+  - 20260616_failsafe
 
 selected:
   - 20260501_molmoact2

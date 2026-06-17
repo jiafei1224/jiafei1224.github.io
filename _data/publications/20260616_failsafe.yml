@@ -1,5 +1,5 @@
 title: 'FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models'
-date: 2025-10-01
+date: 2026-06-16
 selected: false
 authors:
   - name: Zijun Lin
@@ -18,7 +18,7 @@ media:
   alt: FailSafe teaser video
   playback_rate: 3
 venue:
-  - text: 'arXiv 2025'
+  - text: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026'
 links:
   - label: Paper
     kind: paper
