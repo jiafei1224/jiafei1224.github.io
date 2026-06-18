@@ -10,7 +10,7 @@ paperurl: 'https://arxiv.org/pdf/2606.18558'
 projecturl: 'https://allenai.org/blog/molmo-motion'
 dataurl: 'https://huggingface.co/datasets/allenai/molmo-motion-1m'
 modelurl: 'https://huggingface.co/collections/allenai/molmomotion'
-videourl: '/assets/teaser_molmomotion.mp4'
+videourl: '/assets/teaser_molmomotion.gif'
 citation: 'Jianing Zhang, Chenhao Zheng, Yajun Yang, Max Argus, Rustin Soraki, Winson Han, Taira Anderson, Chun-Liang Li, Shuo Liu, Jiafei Duan, Zhongzheng Ren, Jieyu Zhang, Ranjay Krishna. (2026). &quot;MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction.&quot; <i>arXiv preprint arXiv:2606.18558</i>.'
 ---
 
