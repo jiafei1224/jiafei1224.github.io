@@ -1,0 +1,42 @@
+title: 'MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction'
+date: 2026-06-17
+selected: false
+authors:
+  - name: Jianing Zhang
+    marks: '*'
+  - name: Chenhao Zheng
+    marks: '*'
+  - name: Yajun Yang
+  - name: Max Argus
+  - name: Rustin Soraki
+  - name: Winson Han
+  - name: Taira Anderson
+  - name: Chun-Liang Li
+  - name: Shuo Liu
+  - name: Jiafei Duan
+    highlight: true
+  - name: Zhongzheng Ren
+  - name: Jieyu Zhang
+  - name: Ranjay Krishna
+media:
+  type: image
+  src: /images/publications/molmomotion.gif
+  alt: MolmoMotion teaser
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/abs/2606.18558'
+  - label: Project
+    kind: website
+    url: 'https://molmomotion.github.io/'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/molmo-motion'
+  - label: Data
+    kind: dataset
+    url: 'https://huggingface.co/datasets/allenai/molmo-motion-1m'
+  - label: Model
+    kind: model
+    url: 'https://huggingface.co/collections/allenai/molmomotion'
