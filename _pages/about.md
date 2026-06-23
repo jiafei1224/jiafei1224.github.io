@@ -61,6 +61,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
   <li><strong>[2026]</strong> Talk at <a href="https://www.utexas.edu/">UT Austin CS Seminar</a> on "Building Robotics Foundation Models with Reasoning-in-the-Loop" (Host: Joydeep Biswas).</li>
   <li><strong>[2026]</strong> Talk at <a href="https://umich.edu/">University of Michigan CSE Seminar</a> on "Building Robotics Foundation Models with Reasoning-in-the-Loop" (Host: Bernadette Bucher).</li>
   <li><strong>[2026]</strong> Talk at <a href="https://mpi-inf.mpg.de/">MPI for Informatics</a> on "Building Robotics Foundation Models with Reasoning-in-the-Loop" (Host: Christian Theobalt).</li>
+  <li><strong>[2026]</strong> Talk at <a href="https://uci.edu/">UC Irvine CS Seminar</a> on "Building Robotics Foundation Models with Reasoning-in-the-Loop" (Host: Sven Koenig).</li>
   <li><strong>[2025]</strong> Keynote at <a href="https://www.corl.org/">CoRL 2025 Workshop</a> on "Grounded Reasoning from Vision-Language Models".</li>
   <li><strong>[2025]</strong> Talk at <a href="https://mila.quebec/">Mila Robot Learning Seminar</a> on "Towards Robotics Foundation That Can Reason" (Host: REAL Lab).</li>
   <li><strong>[2025]</strong> Talk at <a href="https://ttic.edu/">TTIC Young Researcher Seminar Series</a> on "Towards Robotics Foundation That Can Reason" (Host: Matt Walter).</li>
