@@ -9,12 +9,14 @@ redirect_from:
 
 <div id="about" aria-hidden="true"></div>
 
-<span id="handwave">👋🏻</span> Hi! I'm an incoming **Presidential Young Professor** at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing, where I will direct the [**MAGIC Lab**](https://magic-ailab.github.io/). I completed my PhD in Computer Science at the [University of Washington](https://washington.edu/), co-advised by Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/) and Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/) (2022–2026). I am also a Graduate Student Researcher at the [Allen Institute for AI (AI2)](https://allenai.org/), working with the [PRIOR](https://prior.allenai.org/) and [Robotics](https://allenai.org/embodied-ai/) teams.
+<span id="handwave">👋🏻</span> Hi! I'm an incoming **Presidential Young Professor** at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing, where I will direct the [**MAGIC Lab**](https://magic-ailab.github.io/). I completed my PhD in Computer Science at the [University of Washington](https://washington.edu/), co-advised by Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/) and Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/) (2022–2026). I am also a Graduate Student Researcher at the [Allen Institute for AI (AI2)](https://allenai.org/), working with the [PRIOR](https://prior.allenai.org/) and [Robotics](https://allenai.org/embodied-ai/) teams. I have also interned at [NVIDIA](https://www.nvidia.com/) as a Research Scientist Intern.
 
 My research mission is simple: **I teach robots to perceive, reason, and act.** I focus on robot learning, embodied AI, and building large-scale robotics foundation models that are deployable in the real world.
 
-Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with **Highest Distinction** from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. I have also interned at [NVIDIA](https://www.nvidia.com/) as a Research Scientist Intern.
+Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with **Highest Distinction** from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore.
 
+
+**I am recruiting PhDs, RAs, Postdocs, and Visiting Students to join the MAGIC Lab at NUS! [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdy5Nd4pY5iCE6JIv6CiebZNulJr9RxOFJqd6O71jxSJH68-w/viewform).**
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
