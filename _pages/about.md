@@ -113,7 +113,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 ## 🎓 Education {#education}
 <ul class="resume-section">
   <li class="resume-entry">
-    <p class="resume-entry__heading"><strong>University of Washington</strong>, <em>2021 - 2026 (expected)</em></p>
+    <p class="resume-entry__heading"><strong>University of Washington</strong>, <em>2021 - 2026</em></p>
     <p class="resume-entry__line"><em>Doctor of Philosophy in Computer Science</em></p>
     <p class="resume-entry__line"><em>Co-advised by Prof. <a href="https://www.ranjaykrishna.com/">Ranjay Krishna</a> and Prof. <a href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a></em></p>
   </li>
