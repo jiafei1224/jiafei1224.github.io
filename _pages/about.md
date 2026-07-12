@@ -57,6 +57,9 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 💬 Invited Talks {#talks}
 <ul class="home-news__list home-talks__list" id="talks-list">
+  <li><strong>[2026]</strong> Talk at <a href="https://www.dutchstartup.ai/en/tv/molmoact2-building-open-science-robotics-foundation-models-for-real-world-deploy">Cohere Labs Open Science Community</a> on "MolmoAct2: Building Open Science Robotics Foundation Models for Real-World Deployment" (Host: Cole Harrison).</li>
+  <li><strong>[2026]</strong> Interview on <a href="https://www.youtube.com/watch?v=wJN_QeZqAFs&t=854s">RoboPapers</a> (Ep#87) on "MolmoAct2: An Open Foundation for Robots That Work in the Real World".</li>
+  <li><strong>[2026]</strong> Interview on <a href="https://www.youtube.com/watch?v=Mqvyffwguls">Talking Robotics</a> on "MolmoAct2: Action Reasoning Models for Real-World Deployments".</li>
   <li><strong>[2026]</strong> Talk at <a href="https://waterloo.ca/">UWaterloo CS Seminar</a> on "Building Robotics Foundation Models with Reasoning-in-the-Loop" (Host: Victor Zhong).</li>
   <li><strong>[2026]</strong> Talk at <a href="https://www.utexas.edu/">UT Austin CS Seminar</a> on "Building Robotics Foundation Models with Reasoning-in-the-Loop" (Host: Joydeep Biswas).</li>
   <li><strong>[2026]</strong> Talk at <a href="https://umich.edu/">University of Michigan CSE Seminar</a> on "Building Robotics Foundation Models with Reasoning-in-the-Loop" (Host: Bernadette Bucher).</li>
