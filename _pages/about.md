@@ -20,6 +20,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/07]</strong> Invited to serve as Associate Editor for <a href="https://www.ieee-ras.org/publications/ra-l/">RA-L</a>.</li>
   <li><strong>[2026/06]</strong> Our paper <em>FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models</em> has been accepted to <a href="https://2026.ieee-iros.org/">IROS 2026</a>.</li>
   <li><strong>[2026/06]</strong> Honored to be a finalist for the <a href="https://e2e3d.github.io/rising_star.html">Rising Star Award for Spatial Intelligence</a> at the CVPR E2E3D Workshop.</li>
   <li><strong>[2026/06]</strong> Invited to serve as Area Chair for <a href="https://www.corl.org/">CoRL 2026</a>.</li>
@@ -93,7 +94,15 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
   </li>
 
   <li class="resume-entry">
-    <p class="resume-entry__heading"><strong>Conference Reviewer</strong></p>
+    <p class="resume-entry__heading"><strong>Conference</strong></p>
+    <ul class="resume-entry__details">
+      <li>Area Chair, <a href="https://www.corl.org/">CoRL 2026</a></li>
+      <li>Associate Editor, <a href="https://www.ieee-ras.org/publications/ra-l/">RA-L</a></li>
+    </ul>
+  </li>
+
+  <li class="resume-entry">
+    <p class="resume-entry__heading"><strong>Conference/Journal</strong></p>
     <ul class="resume-entry__details">
       <li>CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, ICRA, IROS, CogSci</li>
       <li>RA-L, IEEE Transactions on Automation Science and Engineering, Pattern Recognition</li>
