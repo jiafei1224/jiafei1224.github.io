@@ -94,7 +94,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
   </li>
 
   <li class="resume-entry">
-    <p class="resume-entry__heading"><strong>Conference</strong></p>
+    <p class="resume-entry__heading"><strong>Academic Service</strong></p>
     <ul class="resume-entry__details">
       <li>Area Chair, <a href="https://www.corl.org/">CoRL 2026</a></li>
       <li>Associate Editor, <a href="https://www.ieee-ras.org/publications/ra-l/">RA-L</a></li>
