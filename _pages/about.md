@@ -20,6 +20,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/07]</strong> I am teaching <a href="https://jiafei1224.github.io/cs6283.github.io/">CS6283 (Robot Learning in the Era of Foundation Models)</a> at NUS.</li>
   <li><strong>[2026/07]</strong> Invited to serve as Associate Editor for <a href="https://www.ieee-ras.org/publications/ra-l/">RA-L</a>.</li>
   <li><strong>[2026/06]</strong> Our paper <em>FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models</em> has been accepted to <a href="https://2026.ieee-iros.org/">IROS 2026</a>.</li>
   <li><strong>[2026/06]</strong> Honored to be a finalist for the <a href="https://e2e3d.github.io/rising_star.html">Rising Star Award for Spatial Intelligence</a> at the CVPR E2E3D Workshop.</li>
@@ -112,6 +113,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
   <li class="resume-entry">
     <p class="resume-entry__heading"><strong>Teaching</strong></p>
     <ul class="resume-entry__details">
+      <li>NUS <a href="https://jiafei1224.github.io/cs6283.github.io/">CS6283: Robot Learning in the Era of Foundation Models</a> — Instructor</li>
       <li>UW CSE 571: Robotics — Co-instructor with Prof. Dieter Fox (Winter 2026)</li>
       <li>UW CSE 571: Robotics — Teaching Assistant (Spring 2025)</li>
       <li>UW CSE 599H: AI vs Intelligence Augmentation — Head Teaching Assistant (Winter 2023)</li>
