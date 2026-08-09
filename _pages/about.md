@@ -9,7 +9,7 @@ redirect_from:
 
 <div id="about" aria-hidden="true"></div>
 
-<span id="handwave">👋🏻</span> Hi! I'm a **Presidential Young Professor** at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing, where I direct the [**MAGIC Lab**](https://magic-ailab.github.io/). I completed my PhD in Computer Science at the [University of Washington](https://washington.edu/), co-advised by Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/) and Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/) (2022–2026). I am also a Graduate Student Researcher at the [Allen Institute for AI (AI2)](https://allenai.org/), working with the [PRIOR](https://prior.allenai.org/) and [Robotics](https://allenai.org/embodied-ai/) teams. I have also interned at [NVIDIA](https://www.nvidia.com/) as a Research Scientist Intern.
+<span id="handwave">👋🏻</span> Hi! I'm a **Presidential Young Professor** at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing, where I direct the [**MAGIC Lab**](https://magiclab-nus.github.io/). I completed my PhD in Computer Science at the [University of Washington](https://washington.edu/), co-advised by Prof. [Ranjay Krishna](https://www.ranjaykrishna.com/) and Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/) (2022–2026). I am also a Graduate Student Researcher at the [Allen Institute for AI (AI2)](https://allenai.org/), working with the [PRIOR](https://prior.allenai.org/) and [Robotics](https://allenai.org/embodied-ai/) teams. I have also interned at [NVIDIA](https://www.nvidia.com/) as a Research Scientist Intern.
 
 My research mission is simple: **I teach robots to perceive, reason, and act.** I focus on robot learning, embodied AI, and building large-scale robotics foundation models that are deployable in the real world.
 
@@ -34,7 +34,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
   <li><strong>[2026/04]</strong> Our paper <em>MolmoSpaces: Large-Scale Open Ecosystem for Robot Navigation and Manipulation</em> has been accepted to <a href="https://roboticsconference.org/">RSS 2026</a> as <span style="color:red;">Oral</span>.</li>
   <li><strong>[2026/02]</strong> Our paper <em>From Mystery to Mastery: Failure Diagnosis and Recovery for Robotic Manipulation</em> has been accepted to <a href="https://iclr.cc/">ICLR 2026</a>.</li>
   <li><strong>[2026/01]</strong> Our paper <em>MolmoAct: Action Reasoning Models that Reason in Space</em> has been accepted to <a href="https://2026.ieee-icra.org/">ICRA 2026</a>.</li>
-  <li><strong>[2025/12]</strong> Honored to join NUS as a <strong>Presidential Young Professor</strong>, directing the <a href="https://magic-ailab.github.io/">MAGIC Lab</a>.</li>
+  <li><strong>[2025/12]</strong> Honored to join NUS as a <strong>Presidential Young Professor</strong>, directing the <a href="https://magiclab-nus.github.io/">MAGIC Lab</a>.</li>
   <li><strong>[2025/10]</strong> Our paper <em>FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models</em> has been preprinted to arXiv.</li>
   <li><strong>[2025/09]</strong> Our paper <em>SAM2Act</em> has been selected as <span style="color:red;">Best Paper Award</span> at <a href="https://rememberl-corl25.github.io/">RemembeRL @ CoRL 2025</a>.</li>
   <li><strong>[2025/05]</strong> Our paper <em>SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation</em> has been accepted to <a href="https://icml.cc/">ICML 2025</a>.</li>
