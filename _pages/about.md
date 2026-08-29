@@ -20,6 +20,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/08]</strong> Co-organizing the <a href="https://robotpad2026.github.io/">NeurIPS 2026 Workshop on "RoboPAD: Post-Training Adaptation of Robot Foundation Models"</a>.</li>
   <li><strong>[2026/08]</strong> Co-organizing the <a href="https://corl2026-realworld-robot-learning.github.io/">CoRL 2026 Workshop on "From GPU-Accelerated Simulation to Scalable and Generalizable Real Robot Policy Learning"</a>.</li>
   <li><strong>[2026/07]</strong> I am teaching <a href="https://jiafei1224.github.io/cs6283.github.io/">CS6283 (Robot Learning in the Era of Foundation Models)</a> at NUS.</li>
   <li><strong>[2026/07]</strong> Invited to serve as Associate Editor for <a href="https://www.ieee-ras.org/publications/ra-l/">RA-L</a>.</li>
@@ -93,6 +94,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
       <li>SPACE in Vision, Language, and Embodied AI @ NeurIPS 2025</li>
       <li>Generalizable Priors for Robot Manipulation @ CoRL 2025</li>
       <li>From GPU-Accelerated Simulation to Scalable and Generalizable Real Robot Policy Learning @ CoRL 2026</li>
+      <li>RoboPAD: Post-Training Adaptation of Robot Foundation Models @ NeurIPS 2026</li>
     </ul>
   </li>
 
