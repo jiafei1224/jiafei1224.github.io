@@ -16,6 +16,7 @@ media:
   alt: VLS teaser video
   playback_rate: 3
 venue:
+  - text: 'Conference on Robot Learning (CoRL) 2027'
   - text: 'CVPR 2026 3D-LLM/VLA Workshop'
     note: 'Best Paper Runner-Up'
     note_variant: award
