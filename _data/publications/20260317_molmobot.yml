@@ -35,7 +35,7 @@ media:
   alt: MolmoBot teaser video
   playback_rate: 3
 venue:
-  - text: 'Conference on Robot Learning (CoRL) 2027'
+  - text: 'Conference on Robot Learning (CoRL) 2026'
   - text: 'ICRA 2026 Beyond Teleoperation Workshop'
     note: 'Best Paper Award'
     note_variant: award

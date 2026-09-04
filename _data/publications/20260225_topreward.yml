@@ -21,7 +21,7 @@ media:
   alt: TOPReward teaser video
   playback_rate: 3
 venue:
-  - text: 'Conference on Robot Learning (CoRL) 2027'
+  - text: 'Conference on Robot Learning (CoRL) 2026'
 links:
   - label: Paper
     kind: paper
