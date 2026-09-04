@@ -20,10 +20,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
-  <li><strong>[2026/09]</strong> Our paper <em>MolmoAct2: Action Reasoning Models for Real-World Deployment</em> has been accepted to <a href="https://www.corl.org/">CoRL 2026</a>.</li>
-  <li><strong>[2026/09]</strong> Our paper <em>MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation</em> has been accepted to <a href="https://www.corl.org/">CoRL 2026</a>.</li>
-  <li><strong>[2026/09]</strong> Our paper <em>VLS: Steering Pretrained Robot Policies via Vision-Language Models</em> has been accepted to <a href="https://www.corl.org/">CoRL 2026</a>.</li>
-  <li><strong>[2026/09]</strong> Our paper <em>TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics</em> has been accepted to <a href="https://www.corl.org/">CoRL 2026</a>.</li>
+  <li><strong>[2026/09]</strong> 4 papers accepted to <a href="https://www.corl.org/">CoRL 2026</a>: <em>MolmoAct2</em>, <em>MolmoB0T</em>, <em>VLS</em>, and <em>TOPReward</em>.</li>
   <li><strong>[2026/08]</strong> Co-organizing the <a href="https://robotic-origami-challenge.github.io/">Robotic Origami Challenge</a> at <a href="https://2026.ieee-iros.org/">IROS 2026</a>.</li>
   <li><strong>[2026/08]</strong> Co-organizing the <a href="https://robotpad2026.github.io/">NeurIPS 2026 Workshop on "RoboPAD: Post-Training Adaptation of Robot Foundation Models"</a>.</li>
   <li><strong>[2026/08]</strong> Co-organizing the <a href="https://corl2026-realworld-robot-learning.github.io/">CoRL 2026 Workshop on "From GPU-Accelerated Simulation to Scalable and Generalizable Real Robot Policy Learning"</a>.</li>
