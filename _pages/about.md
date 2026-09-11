@@ -20,6 +20,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/09]</strong> Invited to serve as Associate Editor for <a href="https://2027.ieee-icra.org/">ICRA 2027</a>.</li>
   <li><strong>[2026/09]</strong> 4 papers accepted to <a href="https://www.corl.org/">CoRL 2026</a>: <em>MolmoAct2</em>, <em>MolmoB0T</em>, <em>VLS</em>, and <em>TOPReward</em>.</li>
   <li><strong>[2026/08]</strong> Co-organizing the <a href="https://robotic-origami-challenge.github.io/">Robotic Origami Challenge</a> at <a href="https://2026.ieee-iros.org/">IROS 2026</a>.</li>
   <li><strong>[2026/08]</strong> Co-organizing the <a href="https://robotpad2026.github.io/">NeurIPS 2026 Workshop on "RoboPAD: Post-Training Adaptation of Robot Foundation Models"</a>.</li>
@@ -106,6 +107,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
     <ul class="resume-entry__details">
       <li>Area Chair, <a href="https://www.corl.org/">CoRL 2026</a></li>
       <li>Associate Editor, <a href="https://www.ieee-ras.org/publications/ra-l/">RA-L</a></li>
+      <li>Associate Editor, <a href="https://2027.ieee-icra.org/">ICRA 2027</a></li>
     </ul>
   </li>
 
