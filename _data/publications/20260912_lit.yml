@@ -15,7 +15,7 @@ media:
   alt: LIT teaser video
   playback_rate: 2
 venue:
-  - text: 'Under Review, 2026'
+  - text: 'arXiv 2026'
 links:
   - label: Paper
     kind: paper
