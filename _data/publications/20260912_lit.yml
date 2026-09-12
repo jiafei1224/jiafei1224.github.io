@@ -1,0 +1,28 @@
+title: 'Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models'
+date: 2026-09-12
+selected: true
+authors:
+  - name: Jianman Lin
+    marks: '*'
+  - name: Shailesh Shailesh
+    marks: '*'
+  - name: Zhongyi Luo
+  - name: Jiafei Duan
+    highlight: true
+media:
+  type: video
+  src: /images/publications/20260912_lit.mp4
+  alt: LIT teaser video
+  playback_rate: 2
+venue:
+  - text: 'Under Review, 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://magiclab-nus.github.io/LIT/static/paper/LIT.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/MAGICLAB-NUS/LIT'
+  - label: Project
+    kind: website
+    url: 'https://magiclab-nus.github.io/LIT/'

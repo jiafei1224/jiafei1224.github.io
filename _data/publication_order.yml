@@ -32,8 +32,10 @@ by_date_asc:
   - 20260515_wilddet3d
   - 20260616_failsafe
   - 20260617_molmomotion
+  - 20260912_lit
 
 selected:
+  - 20260912_lit
   - 20260501_molmoact2
   - 20260101_molmoact
   - 20250130_sam2act
