@@ -20,6 +20,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/09]</strong> Awarded the National Robotics Programme (NRP) 2.0 Funding Initiative for "A Singapore Dataset and Benchmark for Embodied AI" (S$2M).</li>
   <li><strong>[2026/09]</strong> Invited to serve as Associate Editor for <a href="https://2027.ieee-icra.org/">ICRA 2027</a>.</li>
   <li><strong>[2026/09]</strong> 4 papers accepted to <a href="https://www.corl.org/">CoRL 2026</a>: <em>MolmoAct2</em>, <em>MolmoB0T</em>, <em>VLS</em>, and <em>TOPReward</em>.</li>
   <li><strong>[2026/08]</strong> Co-organizing the <a href="https://robotic-origami-challenge.github.io/">Robotic Origami Challenge</a> at <a href="https://2026.ieee-iros.org/">IROS 2026</a>.</li>
