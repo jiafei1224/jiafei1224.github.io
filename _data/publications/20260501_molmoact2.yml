@@ -50,6 +50,8 @@ media:
   playback_rate: 3
 venue:
   - text: 'Conference on Robot Learning (CoRL) 2026'
+    note: 'Spotlight (top 4.4% of submissions)'
+    note_variant: award
 links:
   - label: Paper
     kind: paper

@@ -36,6 +36,8 @@ media:
   playback_rate: 3
 venue:
   - text: 'Conference on Robot Learning (CoRL) 2026'
+    note: 'Oral (top 1.0% of submissions)'
+    note_variant: award
   - text: 'ICRA 2026 Beyond Teleoperation Workshop'
     note: 'Best Paper Award'
     note_variant: award
