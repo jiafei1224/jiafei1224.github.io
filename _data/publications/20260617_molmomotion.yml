@@ -23,7 +23,9 @@ media:
   src: /images/publications/molmomotion.gif
   alt: MolmoMotion teaser
 venue:
-  - text: 'arXiv 2026'
+  - text: '<em>Neural Information Processing Systems (NeurIPS)</em>, 2026'
+    note: 'Spotlight (1% acceptance rate)'
+    note_variant: award
 links:
   - label: Paper
     kind: paper
