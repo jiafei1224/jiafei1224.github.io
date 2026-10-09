@@ -20,7 +20,7 @@ media:
   src: /images/publications/20261009_reflex.mp4
   alt: Reflex humanoid catching human-thrown boxes
 venue:
-  - text: 'Preprint 2026'
+  - text: 'arXiv 2026'
 links:
   - label: Paper
     kind: paper
