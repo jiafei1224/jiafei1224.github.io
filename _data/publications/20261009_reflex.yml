@@ -1,0 +1,33 @@
+title: 'Reflex: Visually Grounded Reactive Humanoid Control'
+date: 2026-10-09
+selected: false
+authors:
+  - name: Taoyang Jia
+    marks: '*'
+  - name: Weikai Huang
+    marks: '*'
+  - name: Linxin Song
+    marks: '*'
+  - name: Jared Darlington
+  - name: Jieyu Zhao
+  - name: Yue Wang
+  - name: Jiafei Duan
+    highlight: true
+  - name: Zhongzheng Ren
+  - name: Ranjay Krishna
+media:
+  type: video
+  src: /images/publications/20261009_reflex.mp4
+  alt: Reflex humanoid catching human-thrown boxes
+venue:
+  - text: 'Preprint 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://toberj.github.io/reflex/static/paper/reflex.pdf'
+  - label: Code (coming soon)
+    kind: code
+    url: 'https://github.com/ToberJ/reflex'
+  - label: Project
+    kind: website
+    url: 'https://toberj.github.io/reflex/'
