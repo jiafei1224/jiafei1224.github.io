@@ -22,6 +22,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/10]</strong> Invited to serve as Area Chair for <a href="https://roboticsconference.org/">RSS 2027</a>.</li>
   <li><strong>[2026/10]</strong> Our paper <em>MolmoMotion</em> has been accepted to <a href="https://neurips.cc/">Neural Information Processing Systems (NeurIPS) 2026</a> as <span style="color:red;">Spotlight (1% acceptance rate)</span>.</li>
   <li><strong>[2026/09]</strong> Our papers <em>MolmoAct2</em> and <em>MolmoB0T</em> have been selected as <span style="color:red;">Spotlight</span> (top 4.4% of submissions) and <span style="color:red;">Oral</span> (top 1.0% of submissions), respectively, in <a href="https://www.corl.org/">CoRL 2026</a>.</li>
   <li><strong>[2026/09]</strong> Awarded the National Robotics Programme (NRP) 2.0 Funding Initiative for "A Singapore Dataset and Benchmark for Embodied AI" (S$2M).</li>
@@ -110,6 +111,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
   <li class="resume-entry">
     <p class="resume-entry__heading"><strong>Academic Service</strong></p>
     <ul class="resume-entry__details">
+      <li>Area Chair, <a href="https://roboticsconference.org/">RSS 2027</a></li>
       <li>Area Chair, <a href="https://www.corl.org/">CoRL 2026</a></li>
       <li>Associate Editor, <a href="https://www.ieee-ras.org/publications/ra-l/">RA-L</a></li>
       <li>Associate Editor, <a href="https://2027.ieee-icra.org/">ICRA 2027</a></li>
