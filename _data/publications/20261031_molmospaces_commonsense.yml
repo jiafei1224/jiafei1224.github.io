@@ -1,0 +1,24 @@
+title: 'MolmoSpaces-CommonSense: Evaluating Commonsense in Robotic Manipulation Policies'
+date: 2026-10-31
+selected: false
+authors:
+  - name: Arjun Guru
+  - name: Max Argus
+  - name: Jae Sung Park
+  - name: Jiafei Duan
+    highlight: true
+  - name: Ali Farhadi
+  - name: Ranjay Krishna
+media:
+  type: video
+  src: /images/publications/molmospaces_commonsense_teaser2.mp4
+  alt: MolmoSpaces-CommonSense teaser video
+venue:
+  - text: 'Preprint 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://github.com/allenai/molmospaces/blob/commonsense-paper/projects/commonsense/molmospaces_commonsense.pdf'
+  - label: Code
+    kind: code
+    url: 'https://github.com/allenai/molmospaces'
