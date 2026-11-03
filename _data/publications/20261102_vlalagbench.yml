@@ -1,0 +1,30 @@
+title: 'VLALagBench: Understanding When and Why VLA Inference Latency Matters'
+date: 2026-11-02
+selected: false
+authors:
+  - name: Qi Wen
+  - name: Borui Xu
+  - name: Hussein Amro
+  - name: Hongshi Tan
+  - name: Hanmin Lin
+  - name: Chaoyi Ruan
+  - name: Shanghao Liu
+  - name: Gang Yang
+  - name: Yuejiang Liu
+  - name: Jiafei Duan
+    highlight: true
+  - name: Bingsheng He
+  - name: Jason Clemons
+  - name: Christos Kozyrakis
+  - name: Wenqi Jiang
+media:
+  type: image
+  src: /images/publications/20261102_vlalagbench.png
+  fit: contain
+  alt: 'VLALagBench task types, latency experiments, and success prediction model'
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2611.03103'
