@@ -52,6 +52,10 @@ venue:
   - text: 'Conference on Robot Learning (CoRL) 2026'
     note: 'Spotlight (top 4.4% of submissions)'
     note_variant: award
+  - text: 'TAG @ CoRL 2026'
+    url: 'https://actiongapworkshop.github.io/'
+    note: 'Best Paper Award'
+    note_variant: award
 links:
   - label: Paper
     kind: paper
