@@ -1,0 +1,74 @@
+title: 'RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild'
+date: 2026-11-02
+selected: true
+authors:
+  - name: Tan Sang Nguyen
+    marks: '*§'
+  - name: Yi Ru Wang
+    marks: '*§'
+  - name: Shailesh Shailesh
+    marks: '*§'
+  - name: Gang Yang
+    marks: '§'
+  - name: Jiamo Hu
+    marks: '§'
+  - name: Jianuo Jiang
+    marks: '§'
+  - name: Haoquan Fang
+    marks: '§'
+  - name: Zhongzheng Ren
+    marks: '§'
+  - name: Zhongyi Luo
+    marks: '§'
+  - name: Ian Chong
+    marks: '§'
+  - name: Aaron Tung
+    marks: '§'
+  - name: Santiago Pravisani
+    marks: '§'
+  - name: Minghui Lin
+  - name: Yao Mo
+  - name: Ishneet Singh
+  - name: Benjamin Tee
+  - name: Harold Soh
+  - name: Siddhartha Srinivasa
+  - name: Dieter Fox
+  - name: David Hsu
+  - name: Haoming Song
+  - name: Maxime Ellerbach
+  - name: Thomas Wolf
+  - name: Pepijn Kooijmans
+    marks: '§'
+  - name: Ruijie He
+    marks: '§'
+  - name: Michael Cho
+    marks: '§'
+  - name: Jiafei Duan
+    marks: '§'
+    highlight: true
+media:
+  type: video
+  src: /images/publications/20261102_robocolosseum.mp4
+  alt: RoboColosseum project film
+  fit: contain
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2611.02497'
+  - label: Blog post
+    kind: blog
+    url: 'https://robocolosseum.ai/blog/evaluating-physical-intelligence-in-the-wild/'
+  - label: Website
+    kind: website
+    url: 'https://robocolosseum.ai/'
+  - label: GitHub
+    kind: code
+    url: 'https://github.com/RoboColosseum/'
+  - label: Hugging Face
+    kind: dataset
+    url: 'https://huggingface.co/RoboColosseum'
+  - label: Watch film
+    kind: video
+    url: '/images/publications/20261102_robocolosseum.mp4'

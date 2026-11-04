@@ -37,8 +37,10 @@ by_date_asc:
   - 20261009_reflex
   - 20261031_molmospaces_commonsense
   - 20261102_vlalagbench
+  - 20261102_robocolosseum
 
 selected:
+  - 20261102_robocolosseum
   - 20260912_lit
   - 20260501_molmoact2
   - 20260101_molmoact
