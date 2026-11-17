@@ -28,3 +28,6 @@ links:
   - label: Video
     kind: video
     url: '/images/publications/20261107_robomocap.mp4'
+  - label: Dataset
+    kind: dataset
+    url: 'https://huggingface.co/datasets/BitRobot/robomocap'
