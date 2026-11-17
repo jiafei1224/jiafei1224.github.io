@@ -1,0 +1,30 @@
+title: 'RoboMoCap: A Large-Scale Whole-Body Motion Capture Dataset with Egocentric Vision for Robot Learning'
+date: 2026-11-07
+selected: true
+authors:
+  - name: Mayur Deshmukh
+  - name: Aaron Tung
+  - name: Junyi Li
+  - name: Nikash Bhardwaj
+  - name: Ademi Adeniji
+  - name: Vincent Liu
+  - name: Michael Cho
+  - name: Jiafei Duan
+    highlight: true
+media:
+  type: video
+  src: /images/publications/20261107_robomocap.mp4
+  alt: RoboMoCap whole-body motion capture dataset overview
+  fit: contain
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/abs/2611.10994'
+  - label: Website
+    kind: website
+    url: 'https://bitrobot-foundation.github.io/robomocap/'
+  - label: Video
+    kind: video
+    url: '/images/publications/20261107_robomocap.mp4'
