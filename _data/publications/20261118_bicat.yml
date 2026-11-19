@@ -1,0 +1,26 @@
+title: 'BiCAT: Bimanual Coordination Action Tokenization'
+date: 2026-11-18
+selected: true
+authors:
+  - name: Xuanwei Liu
+  - name: Guipu Cao
+  - name: Zhongyi Luo
+  - name: Jiafei Duan
+    highlight: true
+media:
+  type: video
+  src: /images/publications/20261118_bicat.mp4
+  alt: BiCAT teaser video
+  playback_rate: 1
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2611.23676'
+  - label: Code
+    kind: code
+    url: 'https://github.com/MAGICLAB-NUS/BiCAT'
+  - label: Project
+    kind: website
+    url: 'https://magiclab-nus.github.io/BiCAT/'
