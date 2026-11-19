@@ -22,6 +22,7 @@ Previously, I obtained my B.Eng. in Electrical and Electronic Engineering with *
 
 ## 🔥 News {#news}
 <ul class="home-news__list" id="news-list" data-collapsible-list data-initial-limit="5" data-expand-label="Expand news" data-collapse-label="Collapse news">
+  <li><strong>[2026/11]</strong> Introducing <a href="https://magiclab-nus.github.io/BiCAT/">BiCAT: Bimanual Coordination Action Tokenization</a>, which gives each robot arm its own partner-aware action-token stream for coordinated bimanual manipulation. [<a href="https://arxiv.org/pdf/2611.23499">Paper</a>]</li>
   <li><strong>[2026/11]</strong> Our paper <em>MolmoAct2</em> has received the <span style="color:red;">Best Paper Award</span> at the <a href="https://actiongapworkshop.github.io/">G2A: From Generative Models to Robot Actions Workshop @ CoRL 2026</a>.</li>
   <li><strong>[2026/11]</strong> Our paper <em>Reflex</em> has received the <span style="color:red;">Best Poster Award</span> at the <a href="https://contact-rich-loco-manipulation.github.io/program/index.html#accepted-papers">Open Problems in Contact-Rich Loco-Manipulation Workshop @ CoRL 2026</a>.</li>
   <li><strong>[2026/11]</strong> Our paper <em>Reflex</em> has received the <span style="color:red;">Best Paper Award</span> at the <a href="https://roboletics.github.io/corl2026/">RoboLetics 3.0: Benchmarks for Agile Physical Human-Robot Interaction Workshop @ CoRL 2026</a>.</li>
