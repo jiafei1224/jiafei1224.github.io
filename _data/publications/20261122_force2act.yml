@@ -1,0 +1,34 @@
+title: 'Force2Act: A Force-Aware Visuomotor Policy for Generalizable Compliant Robot Manipulation'
+date: 2026-11-22
+selected: true
+authors:
+  - name: Keerthi Vasan Murugan
+  - name: Fangguo Zhao
+  - name: Jiafei Duan
+    highlight: true
+media:
+  type: video
+  src: /images/publications/20261122_force2act.mp4
+  alt: Force2Act compliant robot manipulation demonstrations
+  fit: contain
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/abs/2611.29208'
+  - label: Code
+    kind: code
+    url: 'https://github.com/MAGICLAB-NUS/Force2Act'
+  - label: Website
+    kind: website
+    url: 'https://magiclab-nus.github.io/Force2Act/'
+  - label: Models
+    kind: models
+    url: 'https://huggingface.co/NUSMAGIC/Force2Act-Sim'
+  - label: Dataset
+    kind: dataset
+    url: 'https://huggingface.co/datasets/NUSMAGIC/Force2Act-Bench-Data'
+  - label: Video
+    kind: video
+    url: '/images/publications/20261122_force2act.mp4'

@@ -40,8 +40,10 @@ by_date_asc:
   - 20261102_robocolosseum
   - 20261107_robomocap
   - 20261118_bicat
+  - 20261122_force2act
 
 selected:
+  - 20261122_force2act
   - 20261118_bicat
   - 20261107_robomocap
   - 20261102_robocolosseum
