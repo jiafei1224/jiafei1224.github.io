@@ -1,0 +1,29 @@
+title: 'PROVE: Predict-to-Specify and Observe-to-Verify for Human-Aligned Evaluation of Mobile Manipulation'
+date: 2026-11-25
+selected: false
+authors:
+  - name: Bowen Lyu
+  - name: Yunan Liu
+  - name: Liaoyuan Fan
+  - name: Qinchuan Cheng
+  - name: Jiafei Duan
+    highlight: true
+  - name: Cheston Tan
+  - name: Shijie Li
+media:
+  type: video
+  src: /images/publications/20261125_prove.mp4
+  alt: PROVE coffee-dispenser task evaluation demo
+  fit: contain
+venue:
+  - text: 'arXiv 2026'
+links:
+  - label: Paper
+    kind: paper
+    url: 'https://arxiv.org/pdf/2611.33733'
+  - label: Website
+    kind: website
+    url: 'https://sj-li.com/projects/prove/'
+  - label: Video
+    kind: video
+    url: '/images/publications/20261125_prove.mp4'
